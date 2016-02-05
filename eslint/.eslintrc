@@ -8,7 +8,7 @@
         "node": true,
         "amd": false,
         "mocha": false,
-        "jquery": false,
+        "jquery": true,
         "jasmine": false,
         "es6": true
     },
